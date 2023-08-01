@@ -1,4 +1,4 @@
-# Student-Reg. API
+# AUCAStudent-Reg-API
 
 ### About the project
 
