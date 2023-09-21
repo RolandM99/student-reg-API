@@ -2,7 +2,7 @@
 
 ### About
 
-> A web service with three End points, one for creating a record of a student(student_id, firstname, lastname, age, gender and academic-year), the second to retrieve a student by its student_id and the last one to show all students records created(list of all student). others end-points are still in building....
+> A web service with three End points, one for creating a record of a student(student_id, firstname, lastname, age, gender and academic-year), the second to retrieve a student by his student_id and the last one to show all students records created(list of all student). others end-points are still in building....
 
 
 ## Built With
